@@ -1,0 +1,308 @@
+employee_id,coworking_space_id,rating,Feature,Amenity,Location
+EMP1,CWS71,2,Conference Rooms,24/7 Access,Suburb
+EMP1,CWS79,1,Conference Rooms,Event Spaces,Business District
+EMP1,CWS86,4,Virtual Office,Event Spaces,Suburb
+EMP1,CWS66,1,Conference Rooms,Printing Services,Suburb
+EMP2,CWS14,1,Conference Rooms,Event Spaces,Suburb
+EMP2,CWS14,4,Conference Rooms,Event Spaces,Suburb
+EMP2,CWS70,2,High-Speed Internet,Printing Services,Suburb
+EMP2,CWS34,3,Open Seating,Printing Services,Suburb
+EMP2,CWS4,1,Conference Rooms,Coffee Bar,Suburb
+EMP3,CWS27,1,Conference Rooms,Printing Services,Business District
+EMP3,CWS9,3,Private Office,Printing Services,Downtown
+EMP3,CWS69,1,High-Speed Internet,Event Spaces,Downtown
+EMP4,CWS96,3,Private Office,Coffee Bar,Business District
+EMP4,CWS49,3,Virtual Office,Coffee Bar,Business District
+EMP4,CWS75,3,Conference Rooms,Printing Services,Business District
+EMP4,CWS74,4,High-Speed Internet,Ergonomic Chairs,Downtown
+EMP4,CWS78,2,Virtual Office,Event Spaces,Business District
+EMP5,CWS23,2,Private Office,Event Spaces,Suburb
+EMP5,CWS3,5,Conference Rooms,24/7 Access,Downtown
+EMP5,CWS63,4,Conference Rooms,Ergonomic Chairs,Downtown
+EMP5,CWS43,5,Open Seating,Event Spaces,Suburb
+EMP5,CWS53,2,Conference Rooms,Coffee Bar,Business District
+EMP6,CWS52,2,Open Seating,Coffee Bar,Business District
+EMP6,CWS34,2,Open Seating,Printing Services,Suburb
+EMP7,CWS73,1,Conference Rooms,24/7 Access,Downtown
+EMP7,CWS50,5,Virtual Office,24/7 Access,Suburb
+EMP7,CWS36,4,High-Speed Internet,Coffee Bar,Downtown
+EMP8,CWS70,5,High-Speed Internet,Printing Services,Suburb
+EMP8,CWS78,2,Virtual Office,Event Spaces,Business District
+EMP8,CWS77,4,Conference Rooms,24/7 Access,Business District
+EMP9,CWS76,5,Virtual Office,Ergonomic Chairs,Business District
+EMP9,CWS93,2,Conference Rooms,Coffee Bar,Downtown
+EMP9,CWS6,2,Open Seating,Ergonomic Chairs,Suburb
+EMP10,CWS96,4,Private Office,Coffee Bar,Business District
+EMP10,CWS21,3,High-Speed Internet,24/7 Access,Business District
+EMP10,CWS79,4,Conference Rooms,Event Spaces,Business District
+EMP10,CWS22,3,Conference Rooms,Printing Services,Business District
+EMP10,CWS29,1,Conference Rooms,Ergonomic Chairs,Downtown
+EMP11,CWS83,4,High-Speed Internet,Event Spaces,Suburb
+EMP11,CWS4,3,Conference Rooms,Coffee Bar,Suburb
+EMP11,CWS15,5,High-Speed Internet,Event Spaces,Business District
+EMP11,CWS26,2,Virtual Office,Coffee Bar,Downtown
+EMP12,CWS17,1,Open Seating,24/7 Access,Business District
+EMP12,CWS68,4,Virtual Office,Ergonomic Chairs,Suburb
+EMP12,CWS2,3,Conference Rooms,Printing Services,Business District
+EMP13,CWS15,5,High-Speed Internet,Event Spaces,Business District
+EMP13,CWS1,3,Virtual Office,24/7 Access,Downtown
+EMP13,CWS48,4,Open Seating,Event Spaces,Downtown
+EMP13,CWS53,3,Conference Rooms,Coffee Bar,Business District
+EMP13,CWS87,4,Open Seating,Coffee Bar,Downtown
+EMP14,CWS74,3,High-Speed Internet,Ergonomic Chairs,Downtown
+EMP14,CWS57,2,Virtual Office,Ergonomic Chairs,Suburb
+EMP15,CWS33,4,High-Speed Internet,Event Spaces,Downtown
+EMP15,CWS44,4,Open Seating,24/7 Access,Suburb
+EMP15,CWS25,1,High-Speed Internet,24/7 Access,Suburb
+EMP15,CWS32,2,Open Seating,Coffee Bar,Business District
+EMP16,CWS90,4,Private Office,Ergonomic Chairs,Downtown
+EMP16,CWS32,5,Open Seating,Coffee Bar,Business District
+EMP17,CWS89,3,Open Seating,Printing Services,Business District
+EMP17,CWS54,5,Open Seating,24/7 Access,Suburb
+EMP17,CWS2,3,Conference Rooms,Printing Services,Business District
+EMP17,CWS86,3,Virtual Office,Event Spaces,Suburb
+EMP18,CWS25,1,High-Speed Internet,24/7 Access,Suburb
+EMP18,CWS29,4,Conference Rooms,Ergonomic Chairs,Downtown
+EMP18,CWS79,3,Conference Rooms,Event Spaces,Business District
+EMP18,CWS73,1,Conference Rooms,24/7 Access,Downtown
+EMP18,CWS83,5,High-Speed Internet,Event Spaces,Suburb
+EMP19,CWS20,1,Open Seating,24/7 Access,Business District
+EMP20,CWS50,5,Virtual Office,24/7 Access,Suburb
+EMP20,CWS8,4,Private Office,24/7 Access,Suburb
+EMP20,CWS67,3,Open Seating,Ergonomic Chairs,Business District
+EMP20,CWS23,2,Private Office,Event Spaces,Suburb
+EMP21,CWS81,5,Open Seating,Ergonomic Chairs,Downtown
+EMP21,CWS14,3,Conference Rooms,Event Spaces,Suburb
+EMP22,CWS30,2,Conference Rooms,Ergonomic Chairs,Business District
+EMP22,CWS12,2,High-Speed Internet,Printing Services,Business District
+EMP22,CWS2,5,Conference Rooms,Printing Services,Business District
+EMP22,CWS77,3,Conference Rooms,24/7 Access,Business District
+EMP22,CWS16,2,Conference Rooms,Coffee Bar,Business District
+EMP23,CWS36,1,High-Speed Internet,Coffee Bar,Downtown
+EMP23,CWS74,1,High-Speed Internet,Ergonomic Chairs,Downtown
+EMP23,CWS94,3,Virtual Office,Ergonomic Chairs,Business District
+EMP23,CWS70,4,High-Speed Internet,Printing Services,Suburb
+EMP24,CWS32,1,Open Seating,Coffee Bar,Business District
+EMP25,CWS52,5,Open Seating,Coffee Bar,Business District
+EMP26,CWS9,3,Private Office,Printing Services,Downtown
+EMP26,CWS56,2,Private Office,24/7 Access,Downtown
+EMP26,CWS87,1,Open Seating,Coffee Bar,Downtown
+EMP27,CWS34,3,Open Seating,Printing Services,Suburb
+EMP27,CWS89,3,Open Seating,Printing Services,Business District
+EMP27,CWS47,4,Private Office,Coffee Bar,Suburb
+EMP28,CWS30,2,Conference Rooms,Ergonomic Chairs,Business District
+EMP28,CWS61,2,Open Seating,24/7 Access,Downtown
+EMP29,CWS67,2,Open Seating,Ergonomic Chairs,Business District
+EMP29,CWS60,5,Open Seating,Printing Services,Downtown
+EMP29,CWS52,3,Open Seating,Coffee Bar,Business District
+EMP29,CWS4,5,Conference Rooms,Coffee Bar,Suburb
+EMP30,CWS74,5,High-Speed Internet,Ergonomic Chairs,Downtown
+EMP30,CWS55,3,Virtual Office,24/7 Access,Suburb
+EMP30,CWS51,2,Open Seating,Coffee Bar,Suburb
+EMP30,CWS93,3,Conference Rooms,Coffee Bar,Downtown
+EMP31,CWS38,4,Virtual Office,Printing Services,Downtown
+EMP31,CWS75,3,Conference Rooms,Printing Services,Business District
+EMP31,CWS28,3,Private Office,Coffee Bar,Business District
+EMP32,CWS35,1,Virtual Office,Event Spaces,Suburb
+EMP32,CWS5,4,Open Seating,Printing Services,Business District
+EMP32,CWS25,1,High-Speed Internet,24/7 Access,Suburb
+EMP32,CWS85,2,Conference Rooms,Ergonomic Chairs,Suburb
+EMP33,CWS71,2,Conference Rooms,24/7 Access,Suburb
+EMP33,CWS73,4,Conference Rooms,24/7 Access,Downtown
+EMP33,CWS24,5,Conference Rooms,Printing Services,Business District
+EMP33,CWS96,3,Private Office,Coffee Bar,Business District
+EMP34,CWS85,1,Conference Rooms,Ergonomic Chairs,Suburb
+EMP35,CWS30,4,Conference Rooms,Ergonomic Chairs,Business District
+EMP35,CWS71,1,Conference Rooms,24/7 Access,Suburb
+EMP35,CWS55,3,Virtual Office,24/7 Access,Suburb
+EMP36,CWS96,5,Private Office,Coffee Bar,Business District
+EMP36,CWS95,1,Conference Rooms,24/7 Access,Business District
+EMP36,CWS17,4,Open Seating,24/7 Access,Business District
+EMP36,CWS57,3,Virtual Office,Ergonomic Chairs,Suburb
+EMP36,CWS63,3,Conference Rooms,Ergonomic Chairs,Downtown
+EMP37,CWS82,5,High-Speed Internet,Printing Services,Business District
+EMP37,CWS52,4,Open Seating,Coffee Bar,Business District
+EMP37,CWS31,3,Conference Rooms,Ergonomic Chairs,Business District
+EMP38,CWS18,1,Virtual Office,Event Spaces,Suburb
+EMP38,CWS72,2,Private Office,24/7 Access,Suburb
+EMP38,CWS51,4,Open Seating,Coffee Bar,Suburb
+EMP38,CWS80,1,Open Seating,24/7 Access,Business District
+EMP38,CWS59,5,Conference Rooms,Event Spaces,Business District
+EMP39,CWS5,5,Open Seating,Printing Services,Business District
+EMP40,CWS57,3,Virtual Office,Ergonomic Chairs,Suburb
+EMP40,CWS41,5,Conference Rooms,Ergonomic Chairs,Business District
+EMP41,CWS48,2,Open Seating,Event Spaces,Downtown
+EMP41,CWS39,1,Private Office,24/7 Access,Suburb
+EMP41,CWS38,4,Virtual Office,Printing Services,Downtown
+EMP41,CWS84,3,Private Office,Printing Services,Downtown
+EMP42,CWS7,4,High-Speed Internet,Printing Services,Downtown
+EMP43,CWS15,1,High-Speed Internet,Event Spaces,Business District
+EMP43,CWS39,2,Private Office,24/7 Access,Suburb
+EMP43,CWS48,1,Open Seating,Event Spaces,Downtown
+EMP43,CWS87,1,Open Seating,Coffee Bar,Downtown
+EMP44,CWS60,3,Open Seating,Printing Services,Downtown
+EMP44,CWS32,4,Open Seating,Coffee Bar,Business District
+EMP45,CWS83,1,High-Speed Internet,Event Spaces,Suburb
+EMP45,CWS47,1,Private Office,Coffee Bar,Suburb
+EMP46,CWS96,2,Private Office,Coffee Bar,Business District
+EMP47,CWS68,5,Virtual Office,Ergonomic Chairs,Suburb
+EMP47,CWS44,2,Open Seating,24/7 Access,Suburb
+EMP48,CWS54,4,Open Seating,24/7 Access,Suburb
+EMP48,CWS5,4,Open Seating,Printing Services,Business District
+EMP48,CWS37,3,Private Office,Printing Services,Downtown
+EMP48,CWS28,5,Private Office,Coffee Bar,Business District
+EMP48,CWS38,4,Virtual Office,Printing Services,Downtown
+EMP49,CWS8,5,Private Office,24/7 Access,Suburb
+EMP49,CWS97,2,Conference Rooms,Coffee Bar,Downtown
+EMP50,CWS47,4,Private Office,Coffee Bar,Suburb
+EMP50,CWS62,1,Conference Rooms,Event Spaces,Suburb
+EMP50,CWS1,4,Virtual Office,24/7 Access,Downtown
+EMP50,CWS83,5,High-Speed Internet,Event Spaces,Suburb
+EMP51,CWS67,4,Open Seating,Ergonomic Chairs,Business District
+EMP51,CWS56,3,Private Office,24/7 Access,Downtown
+EMP51,CWS48,1,Open Seating,Event Spaces,Downtown
+EMP51,CWS66,3,Conference Rooms,Printing Services,Suburb
+EMP52,CWS19,2,Private Office,24/7 Access,Downtown
+EMP52,CWS63,4,Conference Rooms,Ergonomic Chairs,Downtown
+EMP52,CWS42,4,High-Speed Internet,Printing Services,Business District
+EMP52,CWS78,2,Virtual Office,Event Spaces,Business District
+EMP53,CWS95,3,Conference Rooms,24/7 Access,Business District
+EMP53,CWS60,1,Open Seating,Printing Services,Downtown
+EMP53,CWS79,3,Conference Rooms,Event Spaces,Business District
+EMP53,CWS52,5,Open Seating,Coffee Bar,Business District
+EMP54,CWS96,3,Private Office,Coffee Bar,Business District
+EMP54,CWS66,1,Conference Rooms,Printing Services,Suburb
+EMP54,CWS21,4,High-Speed Internet,24/7 Access,Business District
+EMP54,CWS30,3,Conference Rooms,Ergonomic Chairs,Business District
+EMP54,CWS68,2,Virtual Office,Ergonomic Chairs,Suburb
+EMP55,CWS10,1,Conference Rooms,24/7 Access,Business District
+EMP55,CWS32,4,Open Seating,Coffee Bar,Business District
+EMP55,CWS52,1,Open Seating,Coffee Bar,Business District
+EMP56,CWS89,2,Open Seating,Printing Services,Business District
+EMP57,CWS59,5,Conference Rooms,Event Spaces,Business District
+EMP57,CWS9,1,Private Office,Printing Services,Downtown
+EMP57,CWS35,1,Virtual Office,Event Spaces,Suburb
+EMP57,CWS79,3,Conference Rooms,Event Spaces,Business District
+EMP58,CWS75,2,Conference Rooms,Printing Services,Business District
+EMP58,CWS26,2,Virtual Office,Coffee Bar,Downtown
+EMP59,CWS90,5,Private Office,Ergonomic Chairs,Downtown
+EMP59,CWS15,2,High-Speed Internet,Event Spaces,Business District
+EMP59,CWS36,1,High-Speed Internet,Coffee Bar,Downtown
+EMP59,CWS68,5,Virtual Office,Ergonomic Chairs,Suburb
+EMP60,CWS13,2,Virtual Office,Printing Services,Downtown
+EMP60,CWS68,5,Virtual Office,Ergonomic Chairs,Suburb
+EMP61,CWS48,2,Open Seating,Event Spaces,Downtown
+EMP61,CWS5,2,Open Seating,Printing Services,Business District
+EMP62,CWS23,3,Private Office,Event Spaces,Suburb
+EMP62,CWS8,2,Private Office,24/7 Access,Suburb
+EMP62,CWS56,5,Private Office,24/7 Access,Downtown
+EMP62,CWS9,1,Private Office,Printing Services,Downtown
+EMP63,CWS81,3,Open Seating,Ergonomic Chairs,Downtown
+EMP63,CWS14,2,Conference Rooms,Event Spaces,Suburb
+EMP63,CWS60,2,Open Seating,Printing Services,Downtown
+EMP63,CWS91,5,Virtual Office,Printing Services,Business District
+EMP63,CWS33,3,High-Speed Internet,Event Spaces,Downtown
+EMP64,CWS62,2,Conference Rooms,Event Spaces,Suburb
+EMP64,CWS90,1,Private Office,Ergonomic Chairs,Downtown
+EMP65,CWS30,1,Conference Rooms,Ergonomic Chairs,Business District
+EMP65,CWS49,2,Virtual Office,Coffee Bar,Business District
+EMP66,CWS58,1,Virtual Office,24/7 Access,Business District
+EMP66,CWS57,3,Virtual Office,Ergonomic Chairs,Suburb
+EMP66,CWS27,2,Conference Rooms,Printing Services,Business District
+EMP66,CWS54,5,Open Seating,24/7 Access,Suburb
+EMP67,CWS68,3,Virtual Office,Ergonomic Chairs,Suburb
+EMP67,CWS12,1,High-Speed Internet,Printing Services,Business District
+EMP68,CWS45,2,Conference Rooms,24/7 Access,Suburb
+EMP68,CWS19,3,Private Office,24/7 Access,Downtown
+EMP69,CWS74,1,High-Speed Internet,Ergonomic Chairs,Downtown
+EMP69,CWS62,2,Conference Rooms,Event Spaces,Suburb
+EMP69,CWS94,4,Virtual Office,Ergonomic Chairs,Business District
+EMP69,CWS11,5,Virtual Office,24/7 Access,Business District
+EMP70,CWS88,1,Private Office,Ergonomic Chairs,Suburb
+EMP70,CWS31,1,Conference Rooms,Ergonomic Chairs,Business District
+EMP70,CWS97,4,Conference Rooms,Coffee Bar,Downtown
+EMP70,CWS49,4,Virtual Office,Coffee Bar,Business District
+EMP71,CWS40,3,High-Speed Internet,Event Spaces,Downtown
+EMP72,CWS61,5,Open Seating,24/7 Access,Downtown
+EMP72,CWS30,5,Conference Rooms,Ergonomic Chairs,Business District
+EMP72,CWS1,1,Virtual Office,24/7 Access,Downtown
+EMP72,CWS32,4,Open Seating,Coffee Bar,Business District
+EMP72,CWS92,5,High-Speed Internet,Coffee Bar,Suburb
+EMP73,CWS34,2,Open Seating,Printing Services,Suburb
+EMP73,CWS73,5,Conference Rooms,24/7 Access,Downtown
+EMP73,CWS72,1,Private Office,24/7 Access,Suburb
+EMP73,CWS83,5,High-Speed Internet,Event Spaces,Suburb
+EMP73,CWS59,3,Conference Rooms,Event Spaces,Business District
+EMP74,CWS14,4,Conference Rooms,Event Spaces,Suburb
+EMP74,CWS53,1,Conference Rooms,Coffee Bar,Business District
+EMP75,CWS65,1,Conference Rooms,Printing Services,Business District
+EMP75,CWS58,4,Virtual Office,24/7 Access,Business District
+EMP75,CWS41,4,Conference Rooms,Ergonomic Chairs,Business District
+EMP75,CWS39,4,Private Office,24/7 Access,Suburb
+EMP75,CWS68,1,Virtual Office,Ergonomic Chairs,Suburb
+EMP76,CWS96,4,Private Office,Coffee Bar,Business District
+EMP76,CWS67,4,Open Seating,Ergonomic Chairs,Business District
+EMP77,CWS43,1,Open Seating,Event Spaces,Suburb
+EMP78,CWS54,1,Open Seating,24/7 Access,Suburb
+EMP78,CWS38,3,Virtual Office,Printing Services,Downtown
+EMP78,CWS19,5,Private Office,24/7 Access,Downtown
+EMP78,CWS89,2,Open Seating,Printing Services,Business District
+EMP79,CWS26,1,Virtual Office,Coffee Bar,Downtown
+EMP79,CWS71,2,Conference Rooms,24/7 Access,Suburb
+EMP79,CWS45,3,Conference Rooms,24/7 Access,Suburb
+EMP79,CWS25,5,High-Speed Internet,24/7 Access,Suburb
+EMP80,CWS3,5,Conference Rooms,24/7 Access,Downtown
+EMP80,CWS48,5,Open Seating,Event Spaces,Downtown
+EMP80,CWS55,3,Virtual Office,24/7 Access,Suburb
+EMP80,CWS37,4,Private Office,Printing Services,Downtown
+EMP81,CWS94,5,Virtual Office,Ergonomic Chairs,Business District
+EMP81,CWS57,5,Virtual Office,Ergonomic Chairs,Suburb
+EMP81,CWS90,3,Private Office,Ergonomic Chairs,Downtown
+EMP81,CWS43,4,Open Seating,Event Spaces,Suburb
+EMP81,CWS45,5,Conference Rooms,24/7 Access,Suburb
+EMP82,CWS83,5,High-Speed Internet,Event Spaces,Suburb
+EMP83,CWS82,4,High-Speed Internet,Printing Services,Business District
+EMP83,CWS14,1,Conference Rooms,Event Spaces,Suburb
+EMP83,CWS60,1,Open Seating,Printing Services,Downtown
+EMP83,CWS44,5,Open Seating,24/7 Access,Suburb
+EMP83,CWS10,2,Conference Rooms,24/7 Access,Business District
+EMP84,CWS61,4,Open Seating,24/7 Access,Downtown
+EMP84,CWS73,4,Conference Rooms,24/7 Access,Downtown
+EMP84,CWS39,2,Private Office,24/7 Access,Suburb
+EMP84,CWS6,4,Open Seating,Ergonomic Chairs,Suburb
+EMP84,CWS52,3,Open Seating,Coffee Bar,Business District
+EMP85,CWS6,4,Open Seating,Ergonomic Chairs,Suburb
+EMP86,CWS64,4,Conference Rooms,Ergonomic Chairs,Downtown
+EMP87,CWS54,4,Open Seating,24/7 Access,Suburb
+EMP88,CWS13,1,Virtual Office,Printing Services,Downtown
+EMP89,CWS92,3,High-Speed Internet,Coffee Bar,Suburb
+EMP89,CWS12,4,High-Speed Internet,Printing Services,Business District
+EMP89,CWS48,3,Open Seating,Event Spaces,Downtown
+EMP89,CWS82,3,High-Speed Internet,Printing Services,Business District
+EMP90,CWS14,3,Conference Rooms,Event Spaces,Suburb
+EMP90,CWS2,2,Conference Rooms,Printing Services,Business District
+EMP90,CWS57,4,Virtual Office,Ergonomic Chairs,Suburb
+EMP91,CWS29,1,Conference Rooms,Ergonomic Chairs,Downtown
+EMP91,CWS40,1,High-Speed Internet,Event Spaces,Downtown
+EMP91,CWS78,1,Virtual Office,Event Spaces,Business District
+EMP92,CWS87,1,Open Seating,Coffee Bar,Downtown
+EMP93,CWS46,4,Private Office,Coffee Bar,Suburb
+EMP93,CWS82,1,High-Speed Internet,Printing Services,Business District
+EMP93,CWS4,3,Conference Rooms,Coffee Bar,Suburb
+EMP94,CWS39,2,Private Office,24/7 Access,Suburb
+EMP94,CWS85,5,Conference Rooms,Ergonomic Chairs,Suburb
+EMP94,CWS65,1,Conference Rooms,Printing Services,Business District
+EMP95,CWS43,5,Open Seating,Event Spaces,Suburb
+EMP96,CWS37,5,Private Office,Printing Services,Downtown
+EMP96,CWS79,5,Conference Rooms,Event Spaces,Business District
+EMP96,CWS91,3,Virtual Office,Printing Services,Business District
+EMP97,CWS96,1,Private Office,Coffee Bar,Business District
+EMP97,CWS59,4,Conference Rooms,Event Spaces,Business District
+EMP97,CWS67,3,Open Seating,Ergonomic Chairs,Business District
+EMP97,CWS44,4,Open Seating,24/7 Access,Suburb
+EMP97,CWS78,1,Virtual Office,Event Spaces,Business District
+EMP98,CWS88,3,Private Office,Ergonomic Chairs,Suburb
+EMP98,CWS26,5,Virtual Office,Coffee Bar,Downtown
+EMP99,CWS79,3,Conference Rooms,Event Spaces,Business District
+EMP99,CWS86,3,Virtual Office,Event Spaces,Suburb
+EMP100,CWS32,1,Open Seating,Coffee Bar,Business District
